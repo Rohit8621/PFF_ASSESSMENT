@@ -13,7 +13,7 @@ A simple and visually appealing Pokémon app that allows users to view, search, 
   - Displays a paginated list of Pokémon (10 per page).  
   - Includes search functionality by Pokémon name.  
   - Allows filtering Pokémon by type (e.g., Grass, Fire, Water).  
-  - Supports sorting Pokémon by name.  
+  - Supports sorting Pokémon by Name and ID.  
   - Clicking a Pokémon redirects to its detail page.  
 
 - **Pokémon Page (/pokemon/<id>):**  
@@ -39,7 +39,6 @@ A simple and visually appealing Pokémon app that allows users to view, search, 
 
 ### Backend  
 - **Framework:** Node.js with Express  
-- **Database:** PostgreSQL  
 - **Hosting:** Render (or your chosen backend host)  
 
 ---
@@ -48,7 +47,6 @@ A simple and visually appealing Pokémon app that allows users to view, search, 
 
 To run the app locally, ensure you have the following installed:  
 1. **Node.js** (v16 or later)  
-2. **PostgreSQL** (v14 or later)  
 
 ---
 
@@ -57,5 +55,12 @@ To run the app locally, ensure you have the following installed:
 ### 1. Clone the repository  
 ```bash
 git clone https://github.com/yourusername/pokemon-app.git  
-cd pokemon-app  
+cd pokemon-app
+```
+###2. How To RUn
+Install dependencies:
+```bash
+cd backend  
+npm install
+npm run dev  
 
