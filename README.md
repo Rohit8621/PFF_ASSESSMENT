@@ -60,7 +60,20 @@ cd pokemon-app
 ###2. How To RUn
 Install dependencies:
 ```bash
-cd backend  
+cd pokemon-app
 npm install
 npm run dev  
+```
+###📝 Improvisations
+-Clean and visually appealing UI with Tailwind CSS for styling.
+-Responsive design for optimal viewing on all devices.
+-Deployed the app on a free hosting platform (Netlify).
 
+###🏆 Bonus Features
+-Clean, maintainable, and readable codebase.
+-Visually engaging design.
+-Paginated data for better performance and usability.
+
+###📚 Resources
+-PokeAPI Documentation
+-Netlify Hosting
