@@ -65,15 +65,15 @@ npm install
 npm run dev  
 ```
 ###📝 Improvisations
--Clean and visually appealing UI with Tailwind CSS for styling.
--Responsive design for optimal viewing on all devices.
--Deployed the app on a free hosting platform (Netlify).
+- Clean and visually appealing UI with Tailwind CSS for styling.
+- Responsive design for optimal viewing on all devices.
+- Deployed the app on a free hosting platform (Netlify).
 
 ###🏆 Bonus Features
--Clean, maintainable, and readable codebase.
--Visually engaging design.
--Paginated data for better performance and usability.
+- Clean, maintainable, and readable codebase.
+- Visually engaging design.
+- Paginated data for better performance and usability.
 
 ###📚 Resources
--PokeAPI Documentation
--Netlify Hosting
+- PokeAPI Documentation
+- Netlify Hosting
