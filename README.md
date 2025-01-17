@@ -23,7 +23,7 @@ A simple and visually appealing Pokémon app that allows users to view, search, 
 - Data seeded from [PokeAPI](https://pokeapi.co/).  
 
 ### Deployment  
-- Hosted on [Netlify](https://www.netlify.com/): [Live Demo](https://rohitpookiepff.netlify.app/)  
+- Hosted on Netlify [![Netlify Status](https://api.netlify.com/api/v1/badges/430f42f1-fa93-4dd3-b8b9-8c068480d607/deploy-status)](https://app.netlify.com/sites/pookiedex-rohit/deploys)
 
 ---
 
