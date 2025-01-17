@@ -1,5 +1,3 @@
-# PFF_ASSESSMENT
--------------------------------------------------------------------Pokédex------------------------------------------------------------------------
 
 # Pokémon App  
 
@@ -38,7 +36,7 @@ A simple and visually appealing Pokémon app that allows users to view, search, 
 
 ### Backend  
 - **Framework:** Node.js with Express  
-- **Hosting:** Render (or your chosen backend host)  
+- **Hosting:** Netlify  
 
 ---
 
@@ -53,26 +51,26 @@ To run the app locally, ensure you have the following installed:
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/yourusername/pokemon-app.git  
-cd pokemon-app
+git clone https://github.com/Rohit8621/PFF_assessment.git
+cd PFF_assessment
 ```
 ###2. How To RUn
 Install dependencies:
 ```bash
-cd pokemon-app
+cd PFF_assessment
 npm install
 npm run dev  
 ```
-###📝 Improvisations
+### 📝 Improvisations
 - Clean and visually appealing UI with Tailwind CSS for styling.
 - Responsive design for optimal viewing on all devices.
 - Deployed the app on a free hosting platform (Netlify).
 
-###🏆 Bonus Features
+### 🏆 Bonus Features
 - Clean, maintainable, and readable codebase.
 - Visually engaging design.
 - Paginated data for better performance and usability.
 
-###📚 Resources
+### 📚 Resources
 - PokeAPI Documentation
 - Netlify Hosting
